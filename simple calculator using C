@@ -1,0 +1,10 @@
+int main(void)
+{
+  int x = get_int ("x: ");
+  int y = get_int ("y: ");
+  int z= get_int("
+  printf("%i\n", x+y);
+  printf("%\n", x-y);
+  printf("%\n", x/y);
+  printf("%\n", x*y);
+}
